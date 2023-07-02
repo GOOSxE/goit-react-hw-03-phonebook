@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.list_item {
+  display: flex;
+  align-items: center;
+  max-width: 280px;
+  padding: 4px;
+  gap: 10px;
+  justify-content: space-between;
+  border: 1px solid #b7b7b7;
+}
+.button {
+  display: block;
+  padding: 2px 12px;
+  font-weight: 600;
+  font-size: 12px;
+  border-radius: 8px;
+  border: 2px solid #b7b7b7;
+}

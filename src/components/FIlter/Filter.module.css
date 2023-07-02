@@ -1,0 +1,12 @@
+.filter {
+    display: block;
+    margin-bottom: 12px;
+}
+.title {
+  display: block;
+  margin-bottom: 4px;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+}

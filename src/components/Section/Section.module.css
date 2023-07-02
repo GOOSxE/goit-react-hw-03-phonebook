@@ -1,0 +1,15 @@
+.section {
+    display: block;
+    padding: 10px 8px;
+    border: 1px solid black;
+}
+.section:not(:last-child) {
+    margin-bottom: 10px;
+}
+.title {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 1.18;
+}
